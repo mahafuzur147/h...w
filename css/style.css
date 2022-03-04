@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: maroon;
+}
+div{
+    background-color: black;
+    width: 500px;
+}
+#heading{
+    color: maroon;
+}
+h1,input,a{
+    color: maroon;
+}
+form{
+
+}
+input{
+    width:90%;
+}
+account{
+    text-decoration: none;
+    font-size: 20px;
+}
